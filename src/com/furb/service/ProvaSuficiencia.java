@@ -1,3 +1,7 @@
+/*
+NOME: EDUARDA STEFFEN
+DATA: 25/02/2025
+ */
 package com.furb.service;
 
 import com.furb.exception.EArquivoOrigemIncorreto;

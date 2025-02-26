@@ -1,3 +1,8 @@
+/*
+NOME: EDUARDA STEFFEN
+DATA: 25/02/2025
+ */
+
 package com.furb.exception;
 
 import java.io.IOException;
